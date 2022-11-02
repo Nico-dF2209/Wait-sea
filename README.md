@@ -5,4 +5,4 @@ modifications & avancements du projet
 ###ADDED
 attribution des tâches
 prise en main d'unity
-création d'asset
+création d'asset de poisson, canne à pêche, bateau 1, eau
