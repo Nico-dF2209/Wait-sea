@@ -1,5 +1,5 @@
 # Changelog
-- modifications & avancements du projet
+Modifications & avancements du projet Wait & Sea
 ## ver.[0.0.1] 02/11/2022
 ### ADDED
 - attribution des tâches
