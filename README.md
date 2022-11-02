@@ -1,7 +1,8 @@
-# Wait-sea
+#Changelog
+modifications & avancements du projet
 
-02/11/2022
-
+#ver.[0.0.1] 02/11/2022
+#ADDED
 attribution des tâches
 prise en main d'unity
 création d'asset
