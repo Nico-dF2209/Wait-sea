@@ -2,7 +2,7 @@
 Modifications & avancements du projet Wait & Sea
 
 ## ver.[0.0.2] 07/11/2022
-### STRATED
+### STARTED
 - le bateau flotte 
 - l'eau a une resitance crédible
 - progression dans la prise en main d'unity
