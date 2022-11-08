@@ -6,6 +6,7 @@ Modifications & avancements du projet Wait & Sea
 - Modèle alternatif de bateau et poisson
 - Trouvé un moyen de spawn des objets
 - script de mouvement
+- mise en place de la paralaxe
 ### CHANGED
 - Conversion d'assets 3D vers la 2D
 
