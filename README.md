@@ -3,9 +3,10 @@ Modifications & avancements du projet Wait & Sea
 
 ## ver.[0.0.3] 08/11/2022
 ### ADDED
-- Conversion d'assets 3D vers la 2D
 - Modèle alternatif de bateau et poisson
 - Trouvé un moyen de spawn des objets
+### CHANGED
+- Conversion d'assets 3D vers la 2D
 
 ## ver.[0.0.2] 07/11/2022
 ### ADDED
