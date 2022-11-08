@@ -1,6 +1,11 @@
 # Changelog
 Modifications & avancements du projet Wait & Sea
 
+## ver.[0.0.3] 08/11/2022
+### ADDED
+- conversion d'assets 3D vers la 2D
+- model alternatif de bateau et poisson
+
 ## ver.[0.0.2] 07/11/2022
 ### ADDED
 - le bateau flotte 
