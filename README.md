@@ -5,8 +5,12 @@ Modifications & avancements du projet Wait & Sea
 ### ADDED
 - Modèle alternatif de bateau et poisson
 - Trouvé un moyen de spawn des objets
+- script de mouvement
 ### CHANGED
 - Conversion d'assets 3D vers la 2D
+
+### FIXED
+-probleme de compatibiité avec visual studio 2022
 
 ## ver.[0.0.2] 07/11/2022
 ### ADDED
