@@ -1,6 +1,12 @@
 # Changelog
 Modifications & avancements du projet Wait & Sea
 
+## ver.[0.0.4] 09/11/2022
+### ADDED
+- Modèle de filet de peche
+### CHANGED
+- Addition de grue sur le Grand Bateau
+
 ## ver.[0.0.3] 08/11/2022
 ### ADDED
 - Modèle alternatif de bateau et poisson
