@@ -6,7 +6,6 @@ Modifications & avancements du projet Wait & Sea
 - Modèle de filet de peche
 - fin mouvement bateau
 - camera suit le bateau
-- 
 ### CHANGED
 - Addition de grue sur le Grand Bateau
 
