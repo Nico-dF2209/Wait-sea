@@ -4,6 +4,9 @@ Modifications & avancements du projet Wait & Sea
 ## ver.[0.0.4] 09/11/2022
 ### ADDED
 - Modèle de filet de peche
+- fin mouvement bateau
+- camera suit le bateau
+- 
 ### CHANGED
 - Addition de grue sur le Grand Bateau
 
