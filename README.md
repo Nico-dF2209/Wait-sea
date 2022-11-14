@@ -6,7 +6,6 @@ Modifications & avancements du projet Wait & Sea
 - Filet relié au bateau
 - Physique du filet
 - Menu principal pour le jeu
-### CHANGED
 ### FIXED
 - Bateau visible quand la caméra le suit
 
