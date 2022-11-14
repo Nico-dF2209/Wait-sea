@@ -1,6 +1,11 @@
 # Changelog
 Modifications & avancements du projet Wait & Sea
 
+## ver.[0.0.5] 14/11/2022
+### ADDED
+- Menu principal pour le jeu
+### CHANGED
+
 ## ver.[0.0.4] 09/11/2022
 ### ADDED
 - Modèle de filet de peche
