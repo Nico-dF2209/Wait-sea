@@ -3,8 +3,12 @@ Modifications & avancements du projet Wait & Sea
 
 ## ver.[0.0.5] 14/11/2022
 ### ADDED
+- Filet relier au bateau
+- Physique du filet
 - Menu principal pour le jeu
 ### CHANGED
+### FIXED
+- Bateau visible quand la camera le suit
 
 ## ver.[0.0.4] 09/11/2022
 ### ADDED
