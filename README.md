@@ -3,9 +3,9 @@ Modifications & avancements du projet Wait & Sea
 
 ## ver.[0.0.6] 15/11/2022
 ### ADDED
-- rassemblemnt des scripts de mouvement du bateau et du filet
+- Assemblage des scripts de mouvement du bateau et du filet
 - Dernier modèle de bateau
-- script de mouvement des poissons
+- Script de mouvement aléatoire des poissons
 ### FIXED
 - Correction de codes pour le menu principale.
 - filet qui ne suivait pas le bateau
