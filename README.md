@@ -3,6 +3,12 @@ Modifications & avancements du projet Wait & Sea
 
 ## ver.[0.0.5] 14/11/2022
 ### ADDED
+- Dernier modèle de bateau
+### FIXED
+- Correction de codes pour le menu principale.
+
+## ver.[0.0.5] 14/11/2022
+### ADDED
 - Filet relié au bateau
 - Physique du filet
 - Menu principal pour le jeu
