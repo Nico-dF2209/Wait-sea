@@ -1,7 +1,7 @@
 # Changelog
 Modifications & avancements du projet Wait & Sea
 
-## ver.[0.0.5] 14/11/2022
+## ver.[0.0.6] 15/11/2022
 ### ADDED
 - Dernier modèle de bateau
 ### FIXED
