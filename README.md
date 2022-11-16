@@ -1,6 +1,11 @@
 # Changelog
 Modifications & avancements du projet Wait & Sea
 
+## ver.[0.0.7] 16/11/2022
+### ADDED
+- Modeles de banc de poissons
+### FIXED
+
 ## ver.[0.0.6] 15/11/2022
 ### ADDED
 - Assemblage des scripts de mouvement du bateau et du filet
