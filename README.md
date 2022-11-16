@@ -3,7 +3,10 @@ Modifications & avancements du projet Wait & Sea
 
 ## ver.[0.0.7] 16/11/2022
 ### ADDED
-- Modeles de banc de poissons
+- Modèles de bancs de poissons
+- Fin des scripts de poissons et de score
+- Assemblage des scripts des poissons et du bateau
+- création d'un menu et de transitions
 ### FIXED
 
 ## ver.[0.0.6] 15/11/2022
@@ -13,8 +16,8 @@ Modifications & avancements du projet Wait & Sea
 - Script de mouvement aléatoire des poissons
 ### FIXED
 - Correction de codes pour le menu principale.
-- filet qui ne suivait pas le bateau
-- filet qui tombait à l'infini
+- Filet qui ne suivait pas le bateau
+- Filet qui tombait à l'infini
 - saut étrange du bateau dû au boyency effect
 
 ## ver.[0.0.5] 14/11/2022
