@@ -8,7 +8,6 @@ Modifications & avancements du projet Wait & Sea
 - Assemblage des scripts des poissons et du bateau
 - Création d'un menu et de transitions
 - Création Game Design document.
-### FIXED
 
 ## ver.[0.0.6] 15/11/2022
 ### ADDED
