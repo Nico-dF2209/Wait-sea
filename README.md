@@ -6,7 +6,7 @@ Modifications & avancements du projet Wait & Sea
 - Modèles de bancs de poissons
 - Fin des scripts de poissons et de score
 - Assemblage des scripts des poissons et du bateau
-- création d'un menu et de transitions
+- Création d'un menu et de transitions
 ### FIXED
 
 ## ver.[0.0.6] 15/11/2022
@@ -18,7 +18,7 @@ Modifications & avancements du projet Wait & Sea
 - Correction de codes pour le menu principale.
 - Filet qui ne suivait pas le bateau
 - Filet qui tombait à l'infini
-- saut étrange du bateau dû au boyency effect
+- Saut étrange du bateau dû au boyency effect
 
 ## ver.[0.0.5] 14/11/2022
 ### ADDED
@@ -31,8 +31,8 @@ Modifications & avancements du projet Wait & Sea
 ## ver.[0.0.4] 09/11/2022
 ### ADDED
 - Modèle de filet de peche
-- fin mouvement bateau
-- camera suit le bateau
+- Fin mouvement bateau
+- Camera suit le bateau
 ### CHANGED
 - Addition de grue sur le Grand Bateau
 
