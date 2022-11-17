@@ -6,9 +6,12 @@ Modifications & avancements du projet Wait & Sea
 - Fin du game concept document 
 - Ecriture du post mortem
 - Uniformisation de la mise en page
-- Mise au fromat pdf des documents dont les backlogs
-- Version fianle des fichiers audio
+- Mise au format pdf des documents dont les backlogs
+- Version finale des fichiers audio
 - version finale des assets graphiques
+- Tutoriel menu principal
+- Transitions
+
 ## ver.[0.0.7] 16/11/2022
 ### ADDED
 - Modèles de bancs de poissons
