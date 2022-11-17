@@ -1,6 +1,14 @@
 # Changelog
 Modifications & avancements du projet Wait & Sea
 
+## ver.[0.0.8] 17/11/2022
+### ADDED
+- Fin du game concept document 
+- Ecriture du post mortem
+- Uniformisation de la mise en page
+- Mise au fromat pdf des documents dont les backlogs
+- Version fianle des fichiers audio
+- version finale des assets graphiques
 ## ver.[0.0.7] 16/11/2022
 ### ADDED
 - Modèles de bancs de poissons
