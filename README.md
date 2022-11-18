@@ -6,6 +6,7 @@ Modifications & avancements du projet Wait & Sea
 - Messages de sensibilisation
 - Disparition des poissons
 - Changement d'époque
+- Implementation graphique
 
 ### FINISHED
 - Graphismes
