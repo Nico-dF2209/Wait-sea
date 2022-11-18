@@ -1,6 +1,12 @@
 # Changelog
 Modifications & avancements du projet Wait & Sea
 ## ver.[0.0.9] 18/11/2022
+
+### ADDED
+- Messages de sensibilisation
+- Disparition des poissons
+- Changement d'époque
+
 ### FINISHED
 - Graphismes
 
