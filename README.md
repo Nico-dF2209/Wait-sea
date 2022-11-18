@@ -1,5 +1,11 @@
 # Changelog
 Modifications & avancements du projet Wait & Sea
+## ver.[0.0.9] 18/11/2022
+### FINISHED
+- Graphismes
+
+### FIXED
+- Transition
 
 ## ver.[0.0.8] 17/11/2022
 ### ADDED
